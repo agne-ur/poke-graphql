@@ -1,6 +1,6 @@
 import "./App.css";
 import ApolloClient from "apollo-boost";
-import { ApolloProvider } from "@apollo/react-common";
+import { ApolloProvider } from '@apollo/react-hooks';
 
 import PokemonsContainer from "./PokemonsContainer"
 
