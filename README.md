@@ -1,1 +1,1 @@
-# Poke GraphQL# poke-graphql
+# Poke GraphQL
